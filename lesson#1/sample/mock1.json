@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Cheese",
+    "description": "Lorem ipsum",
+    "cost": 3.99
+  },
+  {
+    "name": "Bacon",
+    "description": "Lorem ipsum",
+    "cost": 3.99
+  },
+  {
+    "name": "Pizza",
+    "description": "Lorem ipsum",
+    "cost": 5.99
+  },
+  {
+    "name": "Butter",
+    "description": "Lorem ipsum",
+    "cost": 1.99
+  },
+  {
+    "name": "Cilantro",
+    "description": "Lorem ipsum",
+    "cost": 0.99
+  },
+  {
+    "name": "Parmesan",
+    "description": "Lorem ipsum",
+    "cost": 4.99
+  },
+  {
+    "name": "Biscuits",
+    "description": "Lorem ipsum",
+    "cost": 2.99
+  },
+  {
+    "name": "Zucchini",
+    "description": "Lorem ipsum",
+    "cost": 3.99
+  },
+  {
+    "name": "Ketchup",
+    "description": "Lorem ipsum",
+    "cost": 0.99
+  }
+]

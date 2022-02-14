@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Puma Train Georgia T-Shirt in peach",
+    "description": "Lorem ipsum",
+    "availables_sizings": ["S", "M", "L", "XL", "XXL"],
+    "cost": 9.90
+  },
+  {
+    "name": "adidas Originals adicolor Locked up t-shirt in blue ",
+    "description": "Lorem ipsum",
+    "availables_sizings": ["XS", "S", "M", "L", "XL", "XXL"],
+    "cost": 13.99
+  },
+  {
+    "name": "adidas Training 1/4 zip long sleeve top with three stripe in dark grey",
+    "description": "Lorem ipsum",
+    "availables_sizings": ["XS","S", "M", "L", "XL"],
+    "cost": 25.99
+  },
+  {
+    "name": "Puma Training Evoknit seamless 1/4 zip top in charcoal grey",
+    "description": "Lorem ipsum",
+    "availables_sizings": ["S", "M", "L", "XL"],
+    "cost": 11.99
+  },
+  {
+    "name": "adidas Running long sleeve top with 1/2 zip in black",
+    "description": "Lorem ipsum",
+    "availables_sizings": ["S", "M", "L", "XL"],
+    "cost": 25.99
+  },
+  {
+    "name": "Under Armour Tech 1/2 zip long sleeve top in pink",
+    "description": "Lorem ipsum",
+    "availables_sizings": ["S", "M", "L", "XL"],
+    "cost": 34.99
+  },
+  {
+    "name": "Nike Running Swoosh Dri-FIT half zip midlayer in pink",
+    "description": "Lorem ipsum",
+    "availables_sizings": ["S", "M", "L", "XL"],
+    "cost": 12.99
+  },
+  {
+    "name": "adidas Training 1/4 zip long sleeve top with three stripe in dark grey",
+    "description": "Lorem ipsum",
+    "availables_sizings": ["S", "M", "XL"],
+    "cost": 23.99
+  },
+  {
+    "name": "Under Armour Tech 1/2 zip long sleeve top in pink",
+    "description": "Lorem ipsum",
+    "availables_sizings": ["S", "M", "XL", "XXL"],
+    "cost": 20.99
+  }
+]
