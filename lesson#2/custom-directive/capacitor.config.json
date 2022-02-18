@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "custom-directive",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
