@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-title>Books</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-searchbar [formControl]="searchField" debounce="100"></ion-searchbar>
+  <ion-list>
+<!--   async handle automatically subscribing to and unsubscribing from filteredBooks observable for us-->
+
+    <ion-item *ngFor="let book of filteredBooks$ | async">
+      <ion-label>
+        {{book.title}}
+      </ion-label>
+      <ion-chip color="primary" *ngFor="let category of book.categories">
+        {{category}}
+      </ion-chip>
+    </ion-item>
+  </ion-list>
+</ion-content>
